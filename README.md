@@ -79,15 +79,15 @@ Whether you're learning Python, preparing for interviews, or looking for inspira
 ```sh
 git clone https://github.com/Arsan-sk/python-mini-projects.git
 cd python-mini-projects
+```
 
-Install dependencies (for all features):
+**Install dependencies (for all features):**
+```sh
 pip install cryptography
-
----
-
-🧪 Usage / Examples
+```
+## 🧪 Usage / Examples
 Run any script directly with Python:
-
+```sh
 python [Adventure.py](http://_vscodecontentref_/0)
 python [Gambal.py](http://_vscodecontentref_/1)
 python [GuessTheNumber.py](http://_vscodecontentref_/2)
@@ -102,21 +102,13 @@ python "ToDo  List Managment app/main.py"
 python "WordPerMinute/wpm.py"
 python "Medlibs_Story_genrator/metlibs-genrator.py"
 python "psw_mngr/password_manager.py"
-
-
-Workspace
-(rerun without)
-You have exceeded your premium request allowance. We have automatically switched you to GPT-4.1 which is included with your plan. Enable additional paid premium requests to continue using premium models.
-
-Collecting workspace information
-
-Install dependencies (for all features):
-
-🧪 Usage / Examples
-Run any script directly with Python:
-
+```
+```sh
 Note: Some scripts require terminal input or special environments (e.g., curses for WPM test).
+```
 
+## 🧱 Project Structure
+```sh
 .
 ├── [Adventure.py](http://_vscodecontentref_/10)
 ├── [Gambal.py](http://_vscodecontentref_/11)
@@ -142,27 +134,29 @@ Note: Some scripts require terminal input or special environments (e.g., curses 
 └── WordPerMinute/
     ├── [text.txt](http://_vscodecontentref_/28)
     └── [wpm.py](http://_vscodecontentref_/29)
+```
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
 
-🐛 Reporting Issues
+## 🐛 Reporting Issues
 Found a bug or have a feature request?
-Please open an issue with details and steps to reproduce.
+feel free to ask me on [LinkedIn](https://www.linkedin.com/in/shaikh-arsan-21a51828b/)
 
-📄 License
-All the projects here are licensed under the MIT License.
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
 
-🧑‍💻 Author
-Made with ❤️ by @Arsan-sk
-
-🫡 Acknowledgments
+## 🙏 Acknowledgments
 Learn and build my understanding for these projects from YouTube channel Name Tech With Tim here is a link for you :
 https://www.youtube.com/@techwithtim
 Thanks to all contributors and the open-source Python community!
 
-🌐 Links
-Update soon!
+## 🌐 Links
+Add soon!
 
+```sh
 Happy Coding! 🚀
+
+```
+
 
