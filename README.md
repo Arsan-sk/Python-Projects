@@ -83,6 +83,7 @@ cd python-mini-projects
 Install dependencies (for all features):
 pip install cryptography
 
+---
 
 🧪 Usage / Examples
 Run any script directly with Python:
