@@ -18,14 +18,6 @@ Whether you're learning Python, preparing for interviews, or looking for inspira
 
 ---
 
-## 📸 Demo / Screenshots
-
-> _Add your screenshots or demo GIFs here!_
-
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Project+Demo+Screenshot)
-
----
-
 ## 🚀 Features
 
 | Project Name                | Description                                 |
